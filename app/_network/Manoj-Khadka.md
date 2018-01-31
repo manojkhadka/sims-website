@@ -18,7 +18,7 @@ languages:  [en]
 published: true
 ---
 
-Manoj have been working with American Red Cross in Nepal Delegation as M&E Delegate since last two years involved in planning, monitoring, evaluation and information management. Prior to this, I was working with Plan International as Emergency M&E Specialist for the earthquake response operations in Nepal.
+Manoj have been working with American Red Cross in Nepal Delegation as M&E Delegate since last two years involved in planning, monitoring, evaluation and information management. Prior to this, he was working with Plan International as Emergency M&E Specialist for the earthquake response operations in Nepal.
 
-In addition to the humanitarian programming, he was also involved in multiple development operations working with GIZ, DFID, SAARC, inter government agency. Manoj has skills set on MIS development, mobile data collection, data analysis, dashboard development, neeed assessment, capacity building, indicator designing etc. Excited to be part of the SIMS network, and love to support in emergency operations! 
+In addition to the humanitarian programming, Manoj was also involved in multiple development operations working with GIZ, DFID, SAARC, inter government agency. Manoj has diffrent skill sets in MIS development, mobile data collection, data analysis, dashboard development, neeed assessment, capacity building, indicator designing etc. Manoj is excited to be part of the SIMS network, and love to support in emergency operations! 
 
