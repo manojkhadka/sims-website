@@ -7,7 +7,7 @@ name:       Manoj Khadka
 ns:         American Red Cross
 ns-img:     americanredcross.png
 position:   M&E Delegate
-image:      dan-joseph.jpg
+image:      Manoj1.jpg
 email:      manoj.khadka@redcross.org
 github:     manojkhadka
 osm:        manojkhadka
